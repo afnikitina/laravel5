@@ -1,1 +1,5 @@
-<h1>I hug you!</h1>
+@extends('layouts.app')
+
+@section('content')
+    <h1>I hug you!</h1>
+@endsection
